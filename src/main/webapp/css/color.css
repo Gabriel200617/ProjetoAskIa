@@ -1,0 +1,14 @@
+:root {
+    /* cores Primarias*/
+    --color-primary: linear-gradient(180deg, #120321 0%, #1e0536 40%, #e6007e 100%);
+    --color-secundary: linear-gradient(180deg, #1A0B2E 0%, #0F051D 100%);
+
+    /* cor do input*/
+    --color-input: rgba(0, 0, 0, 0.3);
+
+    /* cor do botão*/
+   --color-button: linear-gradient(90deg, #9d50bb 0%, #ff0084 100%);
+
+    /* cor da sombra*/
+    --color-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+}
