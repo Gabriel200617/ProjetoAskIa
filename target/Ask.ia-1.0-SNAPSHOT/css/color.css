@@ -10,5 +10,5 @@
    --color-button: linear-gradient(90deg, #9d50bb 0%, #ff0084 100%);
 
     /* cor da sombra*/
-    --color-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    --color-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
 }

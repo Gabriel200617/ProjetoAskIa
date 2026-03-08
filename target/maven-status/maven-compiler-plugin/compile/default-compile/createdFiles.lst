@@ -1,2 +1,5 @@
+dao\UserDAO.class
+connection\ConnectionFactory.class
 com\mycompany\ask\ia\JakartaRestConfiguration.class
+model\UserModel.class
 com\mycompany\ask\ia\resources\JakartaEE11Resource.class
