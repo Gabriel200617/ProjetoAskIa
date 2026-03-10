@@ -18,7 +18,7 @@ public class ConnectionFactory {
         private static final String URL =
             "jdbc:mysql://localhost:3306/ask_ia?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
         private static final String USER = "root";
-        private static final String PASSWORD = "gabriel29071";
+        private static final String PASSWORD = "cimatec";
     //Métodos
         
         public static Connection getConnection(){
