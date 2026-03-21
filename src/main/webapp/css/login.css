@@ -16,7 +16,7 @@ body {
 }
 
 .login-card {
-    background-color: var(--color-secundary);
+    background-color: transparent;
     width: 60%;
     max-width: 350px;
     padding: 40px;
