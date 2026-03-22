@@ -19,25 +19,25 @@
                 <h2>Cadastro</h2>
             </header>
 
-            <form>
+            <form action="cadastro" method="post">
+                <div class="input-group">
+                   <label for="user">Informe o Usuário</label>
+                    <input type="text" name="nomeCad" id="user">
+                </div>
+ 
                 <div class="input-group">
                     <label for="email">Informe um Email</label>
-                    <input type="email" id="email">
-                </div>
-
-                <div class="input-group">
-                    <label for="user">Informe o Usuário</label>
-                    <input type="text" id="user">
+                    <input type="email" name="emailCad" id="email">
                 </div>
 
                 <div class="input-group">
                     <label for="password">Informe a Senha</label>
-                    <input type="password" id="password">
+                    <input type="password" name="senhaCad" id="password">
                 </div>
 
                 <div class="input-group">
                     <label for="confirm-password">Confirme a Senha</label>
-                    <input type="password" id="confirm-password">
+                    <input type="password" name="senhaConfi" id="confirm-password">
                 </div>
 
                 <button type="submit" class="btn-primary">Cadastrar</button>

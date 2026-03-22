@@ -37,7 +37,7 @@ public class LoginServlet extends HttpServlet {
         
         if(dao.validarLogin(userModel)) {
             HttpSession session = 
-                    request.getSession();
+            request.getSession();
             
             session.setAttribute("nome", usuario);
             

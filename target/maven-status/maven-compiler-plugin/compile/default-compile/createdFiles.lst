@@ -2,5 +2,8 @@ controller\LoginServlet.class
 connection\ConnectionFactory.class
 com\mycompany\ask\ia\JakartaRestConfiguration.class
 model\UserModel.class
+controller\CadastroServlet.class
+dao\CadastroDAO.class
 dao\UserDAO.class
 com\mycompany\ask\ia\resources\JakartaEE11Resource.class
+model\CadastroModel.class

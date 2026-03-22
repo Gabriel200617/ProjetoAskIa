@@ -1,6 +1,9 @@
-C:\Users\232.003676\Documents\NetBeansProjects\ProjetoAskIa\src\main\java\com\mycompany\ask\ia\JakartaRestConfiguration.java
-C:\Users\232.003676\Documents\NetBeansProjects\ProjetoAskIa\src\main\java\com\mycompany\ask\ia\resources\JakartaEE11Resource.java
-C:\Users\232.003676\Documents\NetBeansProjects\ProjetoAskIa\src\main\java\connection\ConnectionFactory.java
-C:\Users\232.003676\Documents\NetBeansProjects\ProjetoAskIa\src\main\java\controller\LoginServlet.java
-C:\Users\232.003676\Documents\NetBeansProjects\ProjetoAskIa\src\main\java\dao\UserDAO.java
-C:\Users\232.003676\Documents\NetBeansProjects\ProjetoAskIa\src\main\java\model\UserModel.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\com\mycompany\ask\ia\JakartaRestConfiguration.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\com\mycompany\ask\ia\resources\JakartaEE11Resource.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\connection\ConnectionFactory.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\controller\CadastroServlet.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\controller\LoginServlet.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\dao\CadastroDAO.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\dao\UserDAO.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\model\CadastroModel.java
+C:\Users\jrgab\OneDrive\Imagens\Documentos\NetBeansProjects\ProjetoAskIa\src\main\java\model\UserModel.java
